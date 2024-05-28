@@ -21,7 +21,7 @@ class _RegistrationPageState extends State<RegistrationPage> {
         title: const Text('Registration Page'),
       ),
       body: Padding(
-        padding: EdgeInsets.all(16.0),
+        padding: const EdgeInsets.all(16.0),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
